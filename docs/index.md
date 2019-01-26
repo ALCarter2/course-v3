@@ -67,7 +67,7 @@ Your first task, then, is to open this notebook tutorial! To do so, click `nbs` 
 
 You want to avoid modifying the original course notebooks as you will get conflicts when you try to update this folder with GitHub (the place where the course is hosted). But we also want you to try a lot of variations of what is shown in class, which is why we encourage you to use duplicates of the course notebooks.
 
-Launch you copy of `00_notebook_tutorial.ipynb` and follow the instructions!
+Launch your copy of `00_notebook_tutorial.ipynb` and follow the instructions!
 
 When you're done, **remember to shut down your server**.
 
